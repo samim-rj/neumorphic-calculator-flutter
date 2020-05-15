@@ -13,7 +13,7 @@ then it shows three dots in the result. And same for the operation text that is 
    <td>RESULT SCREEN</td>
  </tr>
  <tr>
-   <td><img src="screenshots/Screenshot_1.jpg" width=270 height=500></td>
-   <td><img src="screenshots/Screenshot_2.jpg" width=270 height=500></td>
+   <td><img src="screenshots/Screenshot_1.jpg" width=270 height=550></td>
+   <td><img src="screenshots/Screenshot_2.jpg" width=270 height=550></td>
  </tr>
 </table>
